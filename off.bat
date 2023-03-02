@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File "D:\Desktop\Projects\Tools\Clash\off.ps1"
